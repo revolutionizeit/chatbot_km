@@ -1,0 +1,1000 @@
+ 1000  cd plugins/
+ 1001  ls- tlr
+ 1002  sudo service apache2 restart
+ 1003  ls
+ 1004  ls -ltr
+ 1005  chmod -R 777 wpforo/
+ 1006  ls -ltr
+ 1007  cd /opt/em/projects/DHL/latest/project/apache_resources/wordpress
+ 1008  ls -trl
+ 1009  cd wp-content/
+ 1010  chmod -R 777 plugins
+ 1011  ls -tlr
+ 1012  sudo service apache2 restart
+ 1013  cti
+ 1014  ls -trl
+ 1015  cd ../../
+ 1016  cd config/environment.prod/apache
+ 1017  cd ../apacheChat/
+ 1018  ls- tlr
+ 1019  ls
+ 1020  cd conf
+ 1021  ls
+ 1022  svn log httpd.conf 
+ 1023  clear
+ 1024  lsnrctl start
+ 1025  clear
+ 1026  cd /opt/em/projects/HSBC/branches/hsbc153fp3/bin/
+ 1027  ./ccadmin.sh stop-all-appservers
+ 1028  ./ccadmin.sh stop-appserver
+ 1029  ./ccadmin.sh stop-all-appservers
+ 1030  ./ccadmin.sh upgrade-database
+ 1031  ./ccadmin.sh stop-all-appservers
+ 1032  ./ccadmin.sh start-all-appservers
+ 1033  ./ccadmin.sh toolbox
+ 1034  ./ccadmin.sh ced
+ 1035  clear
+ 1036  ./ccadmin.sh ced
+ 1037  ./ccadmin.sh stop-all-appservers
+ 1038  ./ccadmin.sh start-all-appservers
+ 1039  ./ccadmin.sh show-config
+ 1040  ./ccadmin.sh validate-config
+ 1041  geany /opt/em/projects/HSBC/branches/hsbc153fp3/work/config/validate-config/validate-config.csv
+ 1042  sudo service apache2 restart
+ 1043  cd /opt/em/products/agent-desktop_15.3-FP3_5.3.0/components/
+ 1044  clear
+ 1045  grep -rnwi "km-content-service.port"
+ 1046  cd /opt/em/projects/HSBC/branches/hsbc153fp3/config/environment.
+ 1047  cd /opt/em/projects/HSBC/branches/hsbc153fp3/config/environment.local/
+ 1048  ls -tlr
+ 1049  ls components/
+ 1050  ls -tlr
+ 1051  cd components/
+ 1052  ls -trl
+ 1053  ifconfig
+ 1054  clear
+ 1055  cd /opt/em/projects/ohra/
+ 1056  find -name . "Secure"
+ 1057  find . -name "Secure"
+ 1058  clear && bash /home/skansakar/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.623/node_modules/@vsliveshare/vscode-launcher-linux/install.sh /home/skansakar/.vscode/extensions/ms-vsliveshare.vsliveshare-0.3.623/codepath.json /usr/local/share true && echo "Press enter to close the terminal window." && sync && read && exit 0
+ 1059  cd /opt/ke/project/cti_cm/config/environment.prod
+ 1060  grep -rnwi "counter"
+ 1061  grep -rnwi "schedulercounter"
+ 1062  grep -rnwi "scheduler"
+ 1063  ec
+ 1064  clear
+ 1065  apt-get install git
+ 1066  sudo apt-get install git
+ 1067  sudo apt-get remove openssh-server openssh-client --purge && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get update
+ 1068  clear
+ 1069  sudo apt-get remove openssh-server openssh-client --purge && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get update
+ 1070  cd /opt/em/products/agent-desktop_15.3-FP3_5.3.0/
+ 1071  cd config/
+ 1072  ls -trl
+ 1073  grep -rnwi "9797"
+ 1074  cd ..
+ 1075  ls -tlr
+ 1076  grep -rnwi "9797"
+ 1077  cd /opt/em/projects/DHL/latest/config
+ 1078  grep -rnwi "9797"
+ 1079  geany environment.local/machine.localhost/container.ad/container.properties.mine
+ 1080  cd /opt/em/products/agent-desktop_15.3-FP3_5.3.0/
+ 1081  grep -rnwi "appserver.additional.java.opts"
+ 1082  grep -rnwi "agentlib:jdwp"
+ 1083  apt-get install git
+ 1084  sudo apt-get install git
+ 1085  clear
+ 1086  git
+ 1087  git config --global user.name "revolutionizeIT"
+ 1088  git config --global user.email revolutionizeit@gmail.com
+ 1089  git config --global core.editor geany
+ 1090  git config --list
+ 1091  clear
+ 1092  sudo snap install heroku --classic
+ 1093  sudo apt-get update 
+ 1094  sudo apt-get install snapd
+ 1095  ls -ltr
+ 1096  cd ..
+ 1097  ls -tlr
+ 1098  du -sh *
+ 1099  rm -rf agent-desktop_15.3-FP2-HFR1_5.2.1
+ 1100  cd ..
+ 1101  ls -tlr
+ 1102  du -sh *
+ 1103  cd projects/
+ 1104  ls -trl
+ 1105  du s-h *
+ 1106  ls -tlr
+ 1107  du -sh *
+ 1108  cd ej/
+ 1109  svn st
+ 1110  cd ..
+ 1111  rm -rf ej/ hsbc-douglas/
+ 1112  clear
+ 1113  df -h
+ 1114  sudo snap install heroku --classic
+ 1115  heroku login
+ 1116  sudo snap install heroku --classic
+ 1117  snap help refresh
+ 1118  heroku login
+ 1119  which heroku
+ 1120  which keorku
+ 1121  cd /snap/heroku/
+ 1122  ls
+ 1123  cd current/bin/
+ 1124  ls -tlr
+ 1125  cd run
+ 1126  sudo wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+ 1127  sudo snap install --classic heroku
+ 1128  snap help refresh
+ 1129  sudo ~/.bashrc
+ 1130  sudo gedit ~/.bashrc
+ 1131  clear
+ 1132  source ~/.bashrc
+ 1133  heroku
+ 1134  clear
+ 1135  heroku login
+ 1136  node
+ 1137  node --version
+ 1138  sudo apt-get update
+ 1139  sudo apt-get install nodejs
+ 1140  sudo apt-get install npm
+ 1141  node --version
+ 1142  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+ 1143  sudo apt-get install -y nodejs
+ 1144  node --version
+ 1145  node
+ 1146  clear
+ 1147  which node
+ 1148  npm --version
+ 1149  git --version
+ 1150  sudo apt-get remove nodejs
+ 1151  which node
+ 1152  which nodejs
+ 1153  sudo apt-get remove npm
+ 1154  sudo apt-get update
+ 1155  sudo rm -rf /usr/local/bin/npm /usr/local/share/man/man1/node* /usr/local/lib/dtrace/node.d ~/.npm ~/.node-gyp /opt/local/bin/node /opt/local/include/node /opt/local/lib/node_modules 
+ 1156  sudo rm -rf /usr/local/lib/node*
+ 1157  sudo rm -rf /usr/local/include/node*
+ 1158  sudo rm -rf /usr/local/bin/node*
+ 1159  node
+ 1160  clear
+ 1161  npm
+ 1162  curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+ 1163  sudo apt-get install -y nodejs
+ 1164  node
+ 1165  which node
+ 1166  which nodejs
+ 1167  which npm
+ 1168  sudo apt-get install -y build-essential
+ 1169  sudo apt-get autoremove
+ 1170  clear
+ 1171  geany ~/.bashrc
+ 1172  clear
+ 1173  source ~/.bashrc
+ 1174  ls -tlr
+ 1175  cd ..
+ 1176  which node
+ 1177  node
+ 1178  node --version
+ 1179  npm --version
+ 1180  cd /hybrid/sk_projects/
+ 1181  s -trl
+ 1182  ls -tlr
+ 1183  git clone https://github.com/heroku/node-js-getting-started.git
+ 1184  cd node-js-getting-started/
+ 1185  heroku create
+ 1186  git push heroku master
+ 1187  heroku ps:scale web=1
+ 1188  heroku open
+ 1189  heroku logs --tail
+ 1190  heroku ps
+ 1191  heroku logs --tail
+ 1192  clear
+ 1193  ec
+ 1194  clear
+ 1195  ec
+ 1196  clear
+ 1197  ls -tlr
+ 1198  mkdir logs
+ 1199  ecls -tlr
+ 1200  ls -trl
+ 1201  cd logs/
+ 1202  ls -tl
+ 1203  ls -trl
+ 1204  ls -tlr
+ 1205  heroku logs
+ 1206  ls -ltr
+ 1207  cd ..
+ 1208  npm start 
+ 1209  netstat -an|grep LISTEN
+ 1210  netstat -an|grep node
+ 1211  clear
+ 1212  npm start 
+ 1213  ps -ef|grep npm
+ 1214  ps -ef|grep node
+ 1215  ps -ef|grep node > 1.log
+ 1216  geany 1.log 
+ 1217  clear
+ 1218  ls -tlr
+ 1219  npm install
+ 1220  npm start -port 4300
+ 1221  netstat -an|grep 4300
+ 1222  npm start -port 4300
+ 1223  npm start -- --port 4300
+ 1224  netstat -an|grep 4300
+ 1225  set DEBUG=dialogflow-webhook-city-weather & node index.js
+ 1226  netstat -an|grep 4300
+ 1227  netstat -an
+ 1228  netstat -an|grep LISTEN
+ 1229  cd /hybrid/sk_projects/node-js-getting-started/
+ 1230  heroku local web
+ 1231  ls -tlr
+ 1232  npm install
+ 1233  heroku local web
+ 1234  clear
+ 1235  git add .
+ 1236  git commit -m 'Add cool face API'
+ 1237  git push heroku master 
+ 1238  heroku open cool
+ 1239  heroku run bash
+ 1240  clear
+ 1241  netstat -an|grep LISTEN
+ 1242  cleear
+ 1243  clear
+ 1244  cd /home/skansakar/.npm/_logs/
+ 1245  ls -tlr
+ 1246  vi 2018-09-10T10_45_49_337Z-debug.log
+ 1247  geany 2018-09-10T10_45_49_337Z-debug.log
+ 1248  npm install cool-ascii-faces
+ 1249  geany index.js 
+ 1250  npm install
+ 1251  heroku local
+ 1252  clear
+ 1253  cd /hybrid/sk_projects/app/knowledgebase
+ 1254  ./runAll.sh 
+ 1255  clear
+ 1256  cd /home/skansakar/Documents/HybridDocuments/Projects/HSBC/build/apiWebhook
+ 1257  geany package.json 
+ 1258  npm install
+ 1259  heroku local web
+ 1260  clear
+ 1261  heroku local web
+ 1262  npm install
+ 1263  heroku local web
+ 1264  clear
+ 1265  heroku local web
+ 1266  npm install
+ 1267  heroku local web
+ 1268  geany Procfile 
+ 1269  heroku local web
+ 1270  clear
+ 1271  ls tlr
+ 1272  ls -ltr
+ 1273  heroku local web
+ 1274  clear
+ 1275  ls -tlr
+ 1276  npm install
+ 1277  npm start
+ 1278  clear
+ 1279  npm start --help
+ 1280  npm --help start --help
+ 1281  npm --help start
+ 1282  npm --help
+ 1283  npm help start
+ 1284  npm start -- --port 4000
+ 1285  npm install
+ 1286  npm start
+ 1287  clear
+ 1288  npm start -- --port 4000 --loglevel verbose
+ 1289  npm start -- --loglevel verbose
+ 1290  npm install --loglevel verbose
+ 1291  ps -ef|grep heroku
+ 1292  clear
+ 1293  npm install run-node
+ 1294  ./node_modules/.bin/run-node index.js 
+ 1295  node index.js 
+ 1296  npm install -g express-generator
+ 1297  sudo npm install -g express-generator
+ 1298  npm install
+ 1299  sudo npm install
+ 1300  npm start
+ 1301  cd ..
+ 1302  ls
+ 1303  ls- trl
+ 1304  cd webhook-dialogflow-weatherinfo-app-master/
+ 1305  ls trl
+ 1306  ls -trl
+ 1307  npm install
+ 1308  npm start
+ 1309  cd ../chatbot_webhook-master/
+ 1310  ls -trl
+ 1311  npm install
+ 1312  npm start
+ 1313  clear
+ 1314  ls -tr
+ 1315  npm install
+ 1316  npm start
+ 1317  cd ..
+ 1318  ls
+ 1319  cd dialogflow_chatbot_webhook/
+ 1320  ls -trl
+ 1321  grep -rnwi "json"
+ 1322  grep -rnwi "application/json"
+ 1323  grep -rnwi "application/json"|grep -v "node_modules"
+ 1324  grep -rnwi "application\/json"|grep -v "node_modules"
+ 1325  grep -rnwi "Content-Type"|grep -v "node_modules"
+ 1326  clear
+ 1327  ls -tlr
+ 1328  git add .
+ 1329  git commit -m 'changes to mapping'
+ 1330  get push heroku master
+ 1331  git push heroku master
+ 1332  git add .
+ 1333  git commit -m 'changes to mapping'
+ 1334  git push heroku master
+ 1335  git add .
+ 1336  git commit -m 'changes to mapping'
+ 1337  git push heroku master
+ 1338  ls -tlr
+ 1339  ls -ltr
+ 1340  mv ../deploy.sh .
+ 1341  ls -tlr
+ 1342  vi .gitignore 
+ 1343  geany .gitignore 
+ 1344  ./deploy.sh 
+ 1345  heroku local web
+ 1346  ./deploy.sh 
+ 1347  git add .
+ 1348  git commit -m 'changes to mapping'
+ 1349  git rush origin master
+ 1350  git push origin master
+ 1351  git push https://revolutionizeit:joystick109@revolutionizeit/dialogflow_chatbot_webhook.git --all
+ 1352  git push https://revolutionizeit:joystick109@github.com/dialogflow_chatbot_webhook.git --all
+ 1353  git push https://revolutionizeit:joystick109@github.com/revolutionizeit/dialogflow_chatbot_webhook.git --all
+ 1354  cd ..
+ 1355  mkdir chatbot_km
+ 1356  cd chatbot_km/
+ 1357  git clone https://github.com/revolutionizeit/dialogflow_chatbot_webhook.git
+ 1358  ls -trl
+ 1359  git status
+ 1360  cd dialogflow_chatbot_webhook/
+ 1361  git status
+ 1362  clear
+ 1363  cd ..
+ 1364  mv dialogflow_chatbot_webhook/ chatbot_km
+ 1365  cd chatbot_km/
+ 1366  git status
+ 1367  cd ..
+ 1368  mv chatbot_km/ 1
+ 1369  mv 1/chatbot_km/ .
+ 1370  ls -ltr
+ 1371  rm -rf 1
+ 1372  cd chatbot_km/
+ 1373  git status
+ 1374  clear
+ 1375  vpn
+ 1376  clear
+ 1377  git status
+ 1378  npm install
+ 1379  git init
+ 1380  git add .
+ 1381  git commit -m 'initial commit chatbot km'
+ 1382  git remote status
+ 1383  git remote -v
+ 1384  git remote add origin https://github.com/revolutionizeit/chatbot_km.git
+ 1385  git remote set-url origin https://github.com/revolutionizeit/chatbot_km.git
+ 1386  git remote -v
+ 1387  git remote add origin https://github.com/revolutionizeit/chatbot_km.git
+ 1388  git push -u origin
+ 1389  git init
+ 1390  git add .
+ 1391  git status
+ 1392  git add . --ignore-removal src/weather.js
+ 1393  git status
+ 1394  git add --ignore-removal src/weather.js
+ 1395  git status
+ 1396  git add .
+ 1397  git add -all
+ 1398  git add --all
+ 1399  git add .
+ 1400  git commit -m 'initial commit chatbot km'
+ 1401  git remote -v
+ 1402  git remote add origin https://github.com/revolutionizeit/chatbot_km.git
+ 1403  git push -u origin
+ 1404  git status
+ 1405  git remote add origin https://github.com/revolutionizeit/chatbot_km.git
+ 1406  echo "# chatbot_km" >> README.md
+ 1407  git init
+ 1408  git add README.md
+ 1409  git commit -m "first commit"
+ 1410  git remote add origin https://github.com/revolutionizeit/chatbot_km.git
+ 1411  vi .git/config 
+ 1412  git push -u origin
+ 1413  git push https://revolutionizeit:joystick109@github.com/revolutionizeit/chabot_km.git --all
+ 1414  clear
+ 1415  git init
+ 1416  git add .
+ 1417  git commit -m "first commit"
+ 1418  git remote add origin git@github.com:revolutionizeit/chatbot_km.git
+ 1419  git push -u origin master
+ 1420  heroku login
+ 1421  heroku create
+ 1422  git push heroku master
+ 1423  ls -tlr
+ 1424  vi deploy.sh 
+ 1425  cat deploy.sh 
+ 1426  ./deploy.sh 
+ 1427  clear
+ 1428  ./deploy.sh 
+ 1429  clear
+ 1430  ./deploy.sh 
+ 1431  clear
+ 1432  ./deploy.sh 
+ 1433  sqld
+ 1434  clear
+ 1435  ./ccadmin.sh stop-all-appservers
+ 1436  ./ccadmin.sh start-all-appservers
+ 1437  clear
+ 1438  sqld
+ 1439  clear
+ 1440  cd ..
+ 1441  svn up
+ 1442  svn st
+ 1443  cd config/environment.local/
+ 1444  ls -trl
+ 1445  svn st
+ 1446  cp environment.properties.mine environment.properties.1
+ 1447  svn help resolve
+ 1448  svn resolve --accept mine-conflict environment.properties
+ 1449  svn st
+ 1450  cd ../..
+ 1451  svn st
+ 1452  clear
+ 1453  cd bin
+ 1454  ./ccadmin.sh stop-all-appservers
+ 1455  ./ccadmin.sh recreate-environment
+ 1456  ./ccadmin.sh stop-all-appservers
+ 1457  ps -ef|grep java
+ 1458  ./ccadmin.sh recreate-environment
+ 1459  clear
+ 1460  ./ccadmin.sh recreate-environment
+ 1461  ./ccadmin.sh stop-all-appservers
+ 1462  clear
+ 1463  ./ccadmin.sh start-all-appservers
+ 1464  clear
+ 1465  rn
+ 1466  clear
+ 1467  ps -ef|grep vpn
+ 1468  kill -9 28477
+ 1469  clear
+ 1470  ./ccadmin.sh |grep web
+ 1471  ./ccadmin.sh 
+ 1472  ./ccadmin.sh |grep deploy
+ 1473  ./ccadmin.sh help
+ 1474  ./ccadmin.sh |grep export
+ 1475  ./ccadmin.sh help export-resources
+ 1476  ./ccadmin.sh export-resources
+ 1477  ./ccadmin.sh start
+ 1478  ./ccadmin.sh stop-all-appservers
+ 1479  ./ccadmin.sh start-all-appservers
+ 1480  vi /opt/em/projects/HSBC/branches/hsbc153fp3/logs/solr/solr-stdout.log
+ 1481  cd ..
+ 1482  svn up
+ 1483  clear
+ 1484  cd /home/skansakar/Documents/HybridDocuments/Projects/HSBC/build/chatbot_km
+ 1485  heroku local web
+ 1486  cd ..
+ 1487  ls -tlr
+ 1488  mv chatbot_webhook-master dialogflow_chatbot_webhook
+ 1489  ls -tlr
+ 1490  cd dialogflow_chatbot_webhook/
+ 1491  ls -tlr
+ 1492  git add .
+ 1493  clear
+ 1494  git add .
+ 1495  git init
+ 1496  git add .
+ 1497  git commit -m 'initial commit of dialgodflow weatherapi webhook' 
+ 1498  git push heroku master
+ 1499  geany ~/.gitconfig
+ 1500  clear
+ 1501  git remote add origin https://github.com/revolutionizeit/
+ 1502  git remote -v
+ 1503  git remote add dialogflow_chatbot_webhook https://github.com/revolutionizeit/
+ 1504  git remote -v
+ 1505  git push dialogflow_chatbot_webhook master
+ 1506  git remote add dialogflow_chatbot_webhook https://github.com/revolutionizeit
+ 1507  git push dialogflow_chatbot_webhook master
+ 1508  clear
+ 1509  ls -tlr
+ 1510  git st
+ 1511  git status
+ 1512  git remote add dialogflow_chatbot_webhook https://github.com/revolutionizeit
+ 1513  git push dialogflow_chatbot_webhook master
+ 1514  git remote -v
+ 1515  git remote rm origin 
+ 1516  git remote rm dialogflow_chatbot_webhook
+ 1517  git remote -v
+ 1518  clear
+ 1519  git remote add dialogflow_chatbot_webhook https://github.com/revolutionizeit/repo.git
+ 1520  git remote -v
+ 1521  git push git dialogflow_chatbot_webhook master
+ 1522  git remote -v
+ 1523  git remote rm dialogflow_chatbot_webhook
+ 1524  clear
+ 1525  git init
+ 1526  git add .
+ 1527  git commit -m 'initial commit of dialgodflow weatherapi webhook' 
+ 1528  git remote add dialogflow_chatbot_webhook https://github.com/revolutionizeit/repo.git
+ 1529  git remote -v
+ 1530  git push git dialogflow_chatbot_webhook master
+ 1531  git remote -v
+ 1532  git push dialogflow_chatbot_webhook master
+ 1533  git remote add dialogflow_chatbot_webhook https://github.com/revolutionizeit/repo.git
+ 1534  git remote -v
+ 1535  git remote rm dialogflow_chatbot_webhook
+ 1536  git remote -v
+ 1537  clear
+ 1538  git remote add dialogflow_chatbot_webhook https://github.com/revolutionizeit/dialogflow_chatbot_webhook.git
+ 1539  git  remote -v
+ 1540  git push dialogflow_chatbot_webhook master
+ 1541  git  remote -v
+ 1542  git credential-manager uninstall
+ 1543  clear
+ 1544  git remote -v
+ 1545  git remove rm dialogflow_chatbot_webhook
+ 1546  git remote rm dialogflow_chatbot_webhook
+ 1547  clear
+ 1548  git init
+ 1549  git add .
+ 1550  git commit -m 'initial commit of dialgodflow weatherapi webhook' 
+ 1551  git remote add origin https://github.com/revolutionizeit/dialogflow_chatbot_webhook.git
+ 1552  git remote -v
+ 1553  git push origin master
+ 1554  git remote set-url origin https://github.com/revolutionizeit/dialogflow_chatbot_webhook.git
+ 1555  git push origin master
+ 1556  clear
+ 1557  ls -tlr
+ 1558  git remote set-url origin https://github.com/revolutionizeit/dialogflow_chatbot_webhook.git
+ 1559  git add .
+ 1560  git commit -m 'initial commit of dialgodflow weatherapi webhook' 
+ 1561  git push origin master --force
+ 1562  git
+ 1563  git status
+ 1564  clear
+ 1565  ls -trl
+ 1566  clear
+ 1567  git status
+ 1568  git remote rm dialogflow_chatbot_webhook
+ 1569  git init
+ 1570  git commit -m 'initial commit of dialgodflow weatherapi webhook' 
+ 1571  git remote add origin https://github.com/revolutionizeit/dialogflow_chatbot_webhook.git
+ 1572  git push -u origin master
+ 1573  git push heroku master
+ 1574  heroku local web
+ 1575  ]
+ 1576  geany .gitignore 
+ 1577  clear
+ 1578  heroku login
+ 1579  heroku create 
+ 1580  git push heroku mater
+ 1581  git push heroku master
+ 1582  heroki logs
+ 1583  heroku logs
+ 1584  heroku logs -n 100
+ 1585  heroku logs --tail
+ 1586  clear
+ 1587  ls -ltr
+ 1588  chmod a+x deploy.sh 
+ 1589  ./deploy.sh 
+ 1590  heroku logs --tail
+ 1591  vi deploy.sh 
+ 1592  ./deploy.sh 
+ 1593  cd ..
+ 1594  cd chatbot_km/
+ 1595  ./deploy.sh 
+ 1596  heroku logs --tail
+ 1597  clear
+ 1598  heroku logs --tail
+ 1599  hsbc
+ 1600  ls- ltr
+ 1601  svn st
+ 1602  cd ..
+ 1603  svn st
+ 1604  cd repository/default/
+ 1605  ls -ltr
+ 1606  svn st
+ 1607  hsbc
+ 1608  ./ccadmin.sh ced
+ 1609  ./ccadmin.sh toolbox
+ 1610  cd /opt/em/projects/DHL/latest/components/cre/extensions/DHLEmailAutoSuggestAcceptor/resources
+ 1611  cd ..
+ 1612  svn st
+ 1613  cd ..
+ 1614  svn st
+ 1615  clear
+ 1616  hsbc
+ 1617  cd /opt/em/projects/HSBC/branches/hsbc153fp3/
+ 1618  svn st
+ 1619  cd ..
+ 1620  cd hsbc153fp3/config/environment.
+ 1621  ls -trl
+ 1622  cd hsbc153fp3/config/environment.local/
+ 1623  svn st
+ 1624  svn diff components/asset-service/asset-service.properties
+ 1625  svn diff components/jasper/jasper.properties 
+ 1626  clear
+ 1627  svn st
+ 1628  svn revert components/*service/*-service.properties
+ 1629  svn st
+ 1630  rm environment.properties.1 
+ 1631  cd ..
+ 1632  cd components/
+ 1633  svn st
+ 1634  ls -tlr
+ 1635  cd ../..
+ 1636  ls -tlr
+ 1637  cd components/cre/extensions/
+ 1638  svn st
+ 1639  cler
+ 1640  clear
+ 1641  ls -trl
+ 1642  svn st
+ 1643  cd ..
+ 1644  svn st
+ 1645  svn add components/cre/extensions/SamlResponseParser project/eclipseProject repository/default/HSBCFrameworkDesktop/API/Beans cd ../../../..
+ 1646  cd config/
+ 1647  clear
+ 1648  grep -rnwi "webclient.security.secured-processes.list"
+ 1649  cd /opt/em/products/agent-desktop_15.3-FP3_5.3.0/config/
+ 1650  grep -rnwi "webclient.security.secured-processes.list"
+ 1651  cd /opt/em/projects/HSBC/branches/hsbc153fp3/
+ 1652  clear
+ 1653  svn st
+ 1654  svn add repository/default/HSBCFrameworkDesktop/Implementation/InitialProcess/Authorisation/AuthUserSSO/parseSamlResponse.xml
+ 1655  svn commit -m 'initial commit of parsing SamlResponse at process layer due to ongoing issues' repository/default/HSBCFrameworkDesktop project/eclipseProject/ components/cre/extensions/SamlResponseParser
+ 1656  svn st
+ 1657  ls repository/default/HSBCFrameworkDesktop/Tests
+ 1658  ls -R repository/default/HSBCFrameworkDesktop/Tests
+ 1659  ec
+ 1660  clear
+ 1661  sqld
+ 1662  clear
+ 1663  cd ~/Downloads/
+ 1664  ls -trl
+ 1665  cd /opt/em
+ 1666  ls- tr
+ 1667  cd /opt/em
+ 1668  ls -tlr
+ 1669  unzip ~/Downloads/ngrok-stable-linux-amd64.zip -d /opt/3rdparty/ngrok/
+ 1670  cd /opt/3rdparty/ngrok/
+ 1671  ls -tlr
+ 1672  clear
+ 1673  sudo ~/.bashrc
+ 1674  sudo gedit ~/.bashrc
+ 1675  clear
+ 1676  ./ngrok authtoken 2Mwpi6PE3DjVDqvWa43sC_7gwy69s4bQ3WoHzpxTut6
+ 1677  ./ngrok help
+ 1678  ./ngrok http 80
+ 1679  ./ngrok http -subdomain=revit 80
+ 1680  ./ngrok http 80
+ 1681  clear
+ 1682  ./ngrok http 80
+ 1683  which ngrok 
+ 1684  cd /opt/3rdparty/ngrok/
+ 1685  ls -trl
+ 1686  ./ngrok http 80
+ 1687  clear
+ 1688  cd /home/skansakar/Documents/HybridDocuments/Projects/HSBC/build/chatbot_km
+ 1689  clear
+ 1690  heroku logs --tail
+ 1691  clear
+ 1692  heroku logs --tail
+ 1693  clear
+ 1694  heroku logs --tail
+ 1695  git remote add origin git@github.com:revolutionizeit/chatbot_km.git
+ 1696  ./ngrok http 80git commit -m "First commit"
+ 1697  git commit -m "First commit"
+ 1698  git push https://revolutionizeit:joystick109@github.com/revolutionizeit/chabot_km.git --all
+ 1699  git init
+ 1700  git add .
+ 1701  gir commit -m 'update'
+ 1702  git commit -m 'update'
+ 1703  git remote add origin https://github.com/revolutionizeit/chatbot_km.git
+ 1704  git push -u origin master
+ 1705  hsbc
+ 1706  clear
+ 1707  cd /opt/em/projects/HSBC/branches/hsbc153fp3/bin
+ 1708  clear
+ 1709  cd /hybrid/Documents/Projects/HSBC/build/chatbot_km
+ 1710  ./deploy.sh 
+ 1711  ./deploy.sh 
+ 1712  npm install
+ 1713  npm i -g npm
+ 1714  clear
+ 1715  npm install
+ 1716  clear
+ 1717  ./deploy.sh 
+ 1718  npm install
+ 1719  ./deploy.sh 
+ 1720  npm install
+ 1721  ./deploy.sh 
+ 1722  npm install
+ 1723  ./deploy.sh 
+ 1724  npm install
+ 1725  ./deploy.sh 
+ 1726  cat deploy.sh 
+ 1727  heroku login
+ 1728  ./deploy.sh 
+ 1729  pwd
+ 1730  cd /opt/em/projects/elkjop/branches/15_3_upgrade/work/config/show-config-html
+ 1731  ls -lr
+ 1732  clear
+ 1733  tail -100f recreate.log 
+ 1734  cti
+ 1735  cd ../
+ 1736  cd ../eclipseProjects/
+ 1737  ls trl
+ 1738  ls -tlr
+ 1739  cd PureCloudChannelProvider
+ 1740  svn st
+ 1741  svn diff src/main/java/com/verint/interactionManager/providers/inin/purecloud/PureCloudChannelProvider.java
+ 1742  svn diff src/main/java/com/verint/interactionManager/providers/inin/purecloud/event/controller/calls/PureCloudConnectedCallEventController.java
+ 1743  :q!
+ 1744  clear
+ 1745  svn st
+ 1746  cd ..
+ 1747  cd config
+ 1748  grep -rnwi "weblogic.websocket.tyrus.session-max-idle-timeout
+ 1749  grep -rnwi "weblogic.websocket.tyrus.session-max-idle-timeout"
+ 1750  ec
+ 1751  clear
+ 1752  cd ..
+ 1753  svn up
+ 1754  cd bin
+ 1755  tail -100f recreate.log 
+ 1756  cd ..
+ 1757  svn st
+ 1758  cd ..
+ 1759  cd config
+ 1760  grep -rnwi "appserver.management"
+ 1761  cd ~/Downloads/
+ 1762  ls
+ 1763  java -jar jd-gui-1.3.0.jar 
+ 1764  cd /opt/em/projects/
+ 1765  ls -trl
+ 1766  cd elkjop/branches/15_3_upgrade/
+ 1767  cd eclipseProjects/
+ 1768  svn st
+ 1769  clear
+ 1770  svn st
+ 1771  svn dff PureCloudChannelProvider/target/classes/META-INF/maven/com.verint.integration.channels/PureCloudChannelProvider/pom.properties
+ 1772  svn diff PureCloudChannelProvider/target/classes/META-INF/maven/com.verint.integration.channels/PureCloudChannelProvider/pom.properties
+ 1773  svn diff PureCloudChannelProvider/target/classes/META-INF/maven/com.verint.integration.channels/PureCloudChannelProvider/pom.xml
+ 1774  geany PureCloudChannelProvider/target/classes/META-INF/maven/com.verint.integration.channels/PureCloudChannelProvider/pom.xml
+ 1775  svn st
+ 1776  clear
+ 1777  ls -tlr
+ 1778  svn st
+ 1779  cd PureCloudChannelProvider/
+ 1780  svn st
+ 1781  svn commit -m 'update version number from 3.13.4-HOTFIX-SNAPSHOT to 5.3.0-HOTFIX-SNAPSHOT on pom.xml + changes to path etc' . 
+ 1782  cd ../..
+ 1783  svn st
+ 1784  cd components/cre/extensions/
+ 1785  ls -tlr
+ 1786  svn st
+ 1787  cd PureCloudChannelProvider-dependency/
+ 1788  ls -trl
+ 1789  geany build.xml 
+ 1790  cd resources/
+ 1791  ls -tlr
+ 1792  svn st
+ 1793  ls -ltr
+ 1794  svn st
+ 1795  svn delete tyrus-standalone-client-1.13.jar
+ 1796  svn commit -m 'removing the tyrus-standalone-client-1.13.jar as there is weblogic class and hence causing classloading issue' .
+ 1797  clear
+ 1798  svn st
+ 1799  ls -ltr
+ 1800  clear
+ 1801  sqld
+ 1802  Tclear
+ 1803  clear
+ 1804  sqld
+ 1805  clear
+ 1806  cd /home/skansakar/Documents/HybridDocuments/Projects/HSBC/build
+ 1807  cd chatbot_km
+ 1808  git remote st
+ 1809  git remote status
+ 1810  cd ..
+ 1811  npm i --save react-bot-ui
+ 1812  npm i -g npm 
+ 1813  sudo npm i -g npm 
+ 1814  geany /home/skansakar/.npm/_logs/2018-09-19T09_59_43_633Z-debug.log
+ 1815  npm i --save react-bot-ui
+ 1816  sudp apt-get install npm
+ 1817  sudo apt-get install npm
+ 1818  npm
+ 1819  heroku logs --tail
+ 1820  c;ear
+ 1821  clear
+ 1822  lsnrctl start
+ 1823  cd /opt/em/projects/elkjop/branches/15_3_upgrade/bin/
+ 1824  ./ccadmin.sh stop-all-appservers
+ 1825  ./ccadmin.sh start-all-appservers
+ 1826  geany /opt/em/projects/elkjop/branches/15_3_upgrade/logs/authentication-service/stdout.log
+ 1827  clear
+ 1828  ./ccadmin.sh stop-all-appservers
+ 1829  ./ccadmin.sh start-all-appservers -DContainer.name=ad
+ 1830  clear
+ 1831  ./ccadmin.sh stop-appserver -Dcontainer.name=ad
+ 1832  ./ccadmin.sh start-appserver -Dcontainer.name=ad
+ 1833  ./ccadmin.sh stop-all-appservers
+ 1834  ./ccadmin.sh recreate-environment
+ 1835  ./ccadmin.sh recreate-environmentgeany /opt/em/projects/elkjop/branches/15_3_upgrade/logs/authentication-service/stdout.log
+ 1836  geany /opt/em/projects/elkjop/branches/15_3_upgrade/logs/authentication-service/stdout.log
+ 1837  ./ccadmin.sh stop-all-appservers
+ 1838  ./ccadmin.sh start-all-appservers
+ 1839  ./ccadmin.sh stop-all-appservers
+ 1840  ./ccadmin.sh recreate-environment > recreate.log
+ 1841  clear
+ 1842  ./ccadmin.sh stop-appserver -Dcontainer.name=ad
+ 1843  ./ccadmin.sh start-appserver -Dcontainer.name=ad
+ 1844  ./ccadmin.sh stop-all-appservers
+ 1845  ./ccadmin.sh recreate-environment > recreate.log
+ 1846  ./ccadmin.sh
+ 1847  ./ccadmin.sh|grep language
+ 1848  ./ccadmin.sh help content
+ 1849  ./ccadmin.sh help activate-content-language
+ 1850  ./ccadmin.sh|grep locale
+ 1851  clear
+ 1852  ./ccadmin.sh stop-all-appservers
+ 1853  ps -ef|grep vpn
+ 1854  ps -ef|grep network
+ 1855  ps -ef|grep Frank
+ 1856  cd /opt/em/products/agent-desktop_15.3-FP3-HFR3_5.3.3/
+ 1857  ls
+ 1858  grep "search-kn-synonym"
+ 1859  grep -rnwi "search-kn-synonym"
+ 1860  cd RuntimeSupport/components/solr/server/webapps/
+ 1861  pwd
+ 1862  cd /home/skansakar/Documents/HybridDocuments/Projects/HSBC/build/React.ai-master
+ 1863  ls -ltr
+ 1864  npm install --verbose
+ 1865  npm run dev
+ 1866  geany /home/skansakar/.npm/_logs/2018-09-19T14_19_49_201Z-debug.log
+ 1867  cd node_modules/
+ 1868  ls
+ 1869  cd aria-query/
+ 1870  ls
+ 1871  gedit package.json 
+ 1872  lsnrctl start
+ 1873  clear
+ 1874  lsnrctl start
+ 1875  cd /opt/em/projects/HSBC/branches/hsbc153fp3/bin
+ 1876  ./ccadmin.sh start-all-appservers
+ 1877  vi ~/.verint/engagement-management/em-overrides.properties 
+ 1878  geany ~/.verint/engagement-management/em-overrides.properties
+ 1879  clear
+ 1880  ./ccadmin.sh start-all-appservers
+ 1881  npm ls
+ 1882  npm ls > dep.log
+ 1883  geany dep.log 
+ 1884  cd ..
+ 1885  npm i chatbotbase-dialogflowplatform
+ 1886  cd react-bot-ui-master/
+ 1887  cd ..
+ 1888  cd React.ai-master/
+ 1889  ls ltr
+ 1890  npm --help
+ 1891  npm cache clean --force
+ 1892  clear
+ 1893  npm -v
+ 1894  glob
+ 1895  ls -tlr
+ 1896  rm -rf node_modules/
+ 1897  npm config set registry http://registry.npmjs.org/
+ 1898  npm config set loglevel info
+ 1899  npm install --loglevel verbose
+ 1900  ls -tlr
+ 1901  rm -rf node_modules/
+ 1902  npm run dev
+ 1903  npm install --debug
+ 1904  lsnrctl start
+ 1905  clear
+ 1906  cd ~/Downloads/
+ 1907  ls
+ 1908  ls -ltr
+ 1909  cd testdisk-7.1-WIP/
+ 1910  sudo ./testdisk_static
+ 1911  clear
+ 1912  ls -tlr
+ 1913  cd Documents/
+ 1914  ls
+ 1915  cd Projects/
+ 1916  ks
+ 1917  ls
+ 1918  cd HSBC/build/
+ 1919  ls
+ 1920  cat ChatBot-notes.txt 
+ 1921  cd ..
+ 1922  cd Documents/Projects/
+ 1923  ls -ltr
+ 1924  cd ../../..
+ 1925  cd ../..
+ 1926  rm -rf Documents/
+ 1927  sudo rm -rf Documents/
+ 1928  ls -ltr
+ 1929  sudo ./photorec_static 
+ 1930  ls -ltr
+ 1931  clear
+ 1932  sudo ./photorec_static 
+ 1933  ls -ltr
+ 1934  clear
+ 1935  cd Desktop/
+ 1936  du -sch .[!.]* * |sort -h
+ 1937  cd GDPR/
+ 1938  ls
+ 1939  du -sch .[!.]* * |sort -h
+ 1940  cd Working/
+ 1941  ls -ltr
+ 1942  cd HSBC/Login\ Issue/
+ 1943  du -sch .[!.]* * |sort -h
+ 1944  rm -rf opt/ lnvl1818-adpk3.20180802-190943/ Agent_44018268_Logs_20180802
+ 1945  cd ..
+ 1946  ls -tlr
+ 1947  cd ..
+ 1948  du -sch .[!.]* * |sort -h
+ 1949  cd ..
+ 1950  du -sch .[!.]* * |sort -h
+ 1951  cd ..
+ 1952  cd ls -ltr
+ 1953  du -sch .[!.]* * |sort -h
+ 1954  cd /opt/
+ 1955  du -sch .[!.]* * |sort -h
+ 1956  cd 3rdparty/
+ 1957  du -sch .[!.]* * |sort -h
+ 1958  cd ..
+ 1959  cd em/
+ 1960  cd containers/em-appserver/
+ 1961  ls
+ 1962  ls -tlr
+ 1963  cd domains/server_ad/config/jdbc/
+ 1964  ls
+ 1965  ls -tlr
+ 1966  cat kanaDS-4184-jdbc.xml 
+ 1967  clear
+ 1968  ls -ltr
+ 1969  cd ../..
+ 1970  cd ..
+ 1971  ls -tlr
+ 1972  rm -rf em-appserver/
+ 1973  grep -rnwi "revolutionizeit" ./*.txt
+ 1974  grep -rnwi "revolutionizeit" /*/*.txt
+ 1975  grep -rnwi "revolutionizeit" /**/*.txt
+ 1976  grep -rnwi "revolutionizeit" *.txt
+ 1977  ls -tlr
+ 1978  grep -rnwi "revolutionizeit" recup_dir.*/*.txt
+ 1979  grep -rnwi "revolutionizeit" ~/recup_dir.*/*.txt
+ 1980  grep -rnwi "revolutionizeit" recup_dir.*/*.txt
+ 1981  grep -rnwil "revolutionizeit" recup_dir.*/*.txt
+ 1982  find recup_dir.*/*.txt -type f -exec grep -l 'revolutionizeit' {} +
+ 1983  find */*.txt -type f -exec grep -l 'revolutionizeit' {} +
+ 1984  ls -1 | xargs -n10 grep "revolutionizeit" /dev/null
+ 1985  ls -R -1 | xargs -n10 grep "revolutionizeit" /dev/null
+ 1986  find -type f -exec grep -il "revolutionizeit" {} \;
+ 1987  find -type f -exec grep -il "revolutionizeit" {} \+
+ 1988  clear
+ 1989  geany recup_dir.619/f561468880.txt
+ 1990  geany recup_dir.619/f561468824.txt 
+ 1991  geany recup_dir.619/f561468984.txt
+ 1992  geany recup_dir.619/f561468656.txt
+ 1993  geany recup_dir.619/f561468640.txt
+ 1994  meld
+ 1995  cd /home/skansakar/Documents/HybridDocuments/Projects/HSBC/build
+ 1996  cd chatbot_km
+ 1997  npm install --verbose
+ 1998  heroku login
+ 1999  history > comm.log
