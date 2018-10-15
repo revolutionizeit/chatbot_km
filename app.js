@@ -35,7 +35,7 @@ app.post('/webhook', (req, res) => {
 											{
 												/*"text": {"text": ["Welcome to HSBC FAQs"]},
 												"listSelect": response.list*/
-												"card": response.card
+												"basicCard": response.card
 											}
 										]
 				,source:"em-km-api-search-keyword-webhook-response"
