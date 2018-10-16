@@ -49,7 +49,7 @@ app.post('/webhook', (req, res) => {
 		let tag = data.queryResult.parameters['tags'] ? parameters['tags'] : 'product';
 		km.getTags(tag, response => {
 			let webhookResp = {
-				fulfillmentText: "QuickReplies",
+				fulfillmentText: "",
 				fulfillmentMessages: 	[
 											{
 												"quickReplies": response.quickReplies
