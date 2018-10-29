@@ -24,7 +24,7 @@ app.post('/webhook', (req, res) => {
 	// Performing the action
 	if( action === 'getFAQ'){
 		console.log('Action: ' +action+' Parameter: '+parameters['question']);
-		let keyword = data.queryResult.parameters['question'] ? parameters['question'] : 'hsbc';
+		let keyword = data.queryResult.parameters['question'] ? parameters['question'] : '';
 		keyword= '"'+keyword+'"';
 		km.getContent(keyword, response => {
 			//console.log('t: %j',response.text);
