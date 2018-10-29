@@ -183,7 +183,7 @@ exports.searchByTopic = (topic, cb) => {
 		postbackUri = "https://www.hsbc.co.uk/1/2/tools-and-guides/loans/things-to-check-before-you-apply-for-a-loan";
 	}else if (topic=='Express Delivery'){
 		topicId = "topic_delivery";
-		imageUri="https://cdn.dribbble.com/users/1081937/screenshots/2879561/delivery-v1---800x600.gif";
+		imageUri="https://cdn.dribbble.com/users/31826/screenshots/2506901/moto.gif";
 		postbackUri = "https://www.hsbc.co.uk/1/2/tools-and-guides/loans/things-to-check-before-you-apply-for-a-loan";
 	}
 	/*else{
