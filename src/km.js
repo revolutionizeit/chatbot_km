@@ -181,6 +181,10 @@ exports.searchByTopic = (topic, cb) => {
 		topicId = "topic_loans";
 		imageUri= "https://www.thestatebank.com/wp-content/uploads/2016/03/SBALoans.gif";
 		postbackUri = "https://www.hsbc.co.uk/1/2/tools-and-guides/loans/things-to-check-before-you-apply-for-a-loan";
+	}else if (topic=='Express Delivery'){
+		topicId = "topic_delivery";
+		imageUri= "https://cdn.dribbble.com/users/3071/screenshots/1733275/truck.gif";
+		postbackUri = "https://www.hsbc.co.uk/1/2/tools-and-guides/loans/things-to-check-before-you-apply-for-a-loan";
 	}
 	/*else{
 		topicId = "topic_credit";
