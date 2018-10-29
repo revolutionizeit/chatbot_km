@@ -30,7 +30,8 @@ app.post('/webhook', (req, res) => {
 			//console.log('t: %j',response.text);
 			//console.log('l: %j',response.list);
 			let webhookResp = {
-				fulfillmentText: response.textOnly,
+				/*fulfillmentText: response.textOnly,*/
+				fulfillmentText: '',
 				fulfillmentMessages: 	[
 											{
 												/*"text": {"text": ["Welcome to HSBC FAQs"]},
